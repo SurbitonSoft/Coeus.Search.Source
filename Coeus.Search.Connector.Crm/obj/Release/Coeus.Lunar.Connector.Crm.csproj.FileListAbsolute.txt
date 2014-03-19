@@ -1,0 +1,6 @@
+C:\lunar-server-4.5\Build-Release\Plugins\Coeus.Lunar.Connector.Crm.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Connector.Crm\obj\Release\Coeus.Lunar.Connector.Crm.csprojResolveAssemblyReference.cache
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Connector.Crm\obj\Release\Coeus.Lunar.Connector.Crm.dll
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Connector.Crm\obj\Release\Coeus.Lunar.Connector.Crm.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Connector.Crm\obj\Release\Coeus.Lunar.Connector.Crm.dll
+C:\Lunar-Source\Build-Release\Plugins\Coeus.Lunar.Connector.Crm.dll

@@ -1,0 +1,9 @@
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\bin\Release\Lunar Search Server.exe.config
+C:\lunar-server-4.5\Build-Release\Lunar Search Server.exe.config
+C:\lunar-server-4.5\Build-Release\Lunar Search Server.exe
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Release\Coeus.Lunar.Core.csprojResolveAssemblyReference.cache
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Release\Lunar Search Server.exe
+C:\Lunar-Source\Build-Release\Lunar Search Server.exe.config
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Release\Lunar Search Server.exe
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Release\Coeus.Lunar.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Build-Release\Lunar Search Server.exe

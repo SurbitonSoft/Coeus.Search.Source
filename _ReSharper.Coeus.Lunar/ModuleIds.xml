@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9" ModuleId="Coeus.Lunar.Core" />
+  <Module PersistentId="1FB36E00-0081-4CE1-934A-CE8D3B54A8F2" ModuleId="Coeus.Lunar.Connector.Crm" />
+  <Module PersistentId="03C426E5-E3CD-4EB9-A884-175F14AEE612" ModuleId="Coeus.Lunar.Sdk" />
+  <Module PersistentId="24B6CDC1-3006-42E2-8607-ECE915B0D692" ModuleId="Coeus.Lunar.QueryParser" />
+  <Module PersistentId="2C63844F-1AB6-4CA2-AC5E-1213711B3166" ModuleId="Coeus.Lunar.Connector.Csv" />
+  <Module PersistentId="ACC50BEE-C21F-4A73-B993-D9ACA1532869" ModuleId="Coeus.Lunar.Tests" />
+  <Module PersistentId="7E8FB597-34B7-4391-B1DB-1CAA91AED7B5" ModuleId="Coeus.Lunar.Configuration" />
+  <Module PersistentId="39F4D4C5-B41E-413B-B7A4-AFA11F667D3E" ModuleId="Coeus.Lunar.Crm4" />
+</Modules>

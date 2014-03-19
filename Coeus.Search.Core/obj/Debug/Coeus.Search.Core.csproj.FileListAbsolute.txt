@@ -1,0 +1,16 @@
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus Search Server.exe.config
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus.Search.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus Search Server.exe
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus Search Server.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus Search Server.exe
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus Search Server.pdb
+C:\Lunar-Source\Build-Debug\Coeus Search Server.exe.config
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.Core\obj\Debug\Coeus Search Server.exe
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.Core\obj\Debug\Coeus Search Server.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.Core\obj\Debug\Coeus.Search.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Build-Debug\Coeus Search Server.exe
+C:\Lunar-Source\Build-Debug\Coeus Search Server.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Coeus.Search.Source\Coeus.Search.Core\obj\Debug\Coeus Search Server.exe
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Coeus.Search.Source\Coeus.Search.Core\obj\Debug\Coeus Search Server.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Coeus.Search.Source\Coeus.Search.Core\obj\Debug\Coeus.Search.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Build-Debug\Coeus Search Server.exe.config

@@ -1,0 +1,30 @@
+C:\lunar-server-4.5\Build-Debug\Coeus.Lunar.Sdk.dll
+C:\lunar-server-4.5\Build-Debug\Coeus.Lunar.Sdk.pdb
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source\Build-Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\Build-Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source-CB\Build-Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source-CB\Build-Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source-CB\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\Lunar-Source-CB\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source-CB\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.pdb
+C:\5 Lunar-Source-CB-merge2\Build-Debug\Coeus.Lunar.Sdk.dll
+C:\5 Lunar-Source-CB-merge2\Build-Debug\Coeus.Lunar.Sdk.pdb
+C:\5 Lunar-Source-CB-merge2\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\5 Lunar-Source-CB-merge2\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.dll
+C:\5 Lunar-Source-CB-merge2\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Build-Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Build-Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus.Lunar.Sdk.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Lunar.Sdk.pdb

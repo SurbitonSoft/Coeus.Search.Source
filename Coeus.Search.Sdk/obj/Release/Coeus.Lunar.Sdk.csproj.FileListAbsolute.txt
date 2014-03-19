@@ -1,0 +1,6 @@
+C:\lunar-server-4.5\Build-Release\Coeus.Lunar.Sdk.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Release\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Release\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Release\Coeus.Lunar.Sdk.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Release\Coeus.Lunar.Sdk.dll
+C:\Lunar-Source\Build-Release\Coeus.Lunar.Sdk.dll

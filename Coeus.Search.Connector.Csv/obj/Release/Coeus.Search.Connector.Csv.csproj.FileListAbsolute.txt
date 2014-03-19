@@ -1,0 +1,3 @@
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Build-Release\Plugins\Coeus.Search.Connector.Csv.dll
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Connector.Csv\obj\Release\Coeus.Search.Connector.Csv.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Connector.Csv\obj\Release\Coeus.Search.Connector.Csv.dll

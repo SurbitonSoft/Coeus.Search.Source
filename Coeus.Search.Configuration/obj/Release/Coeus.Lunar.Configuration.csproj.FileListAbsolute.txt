@@ -1,0 +1,20 @@
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Coeus.Lunar.Configuration.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Coeus.Lunar.Configuration.pdb
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Coeus.Lunar.Sdk.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Coeus.Yaml.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Newtonsoft.Json.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\ServiceStack.Text.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\System.Net.Http.Formatting.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Coeus.Lunar.QueryParser.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\GoldParserEngine.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Coeus.Yaml.pdb
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\Newtonsoft.Json.xml
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\ServiceStack.Text.pdb
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\ServiceStack.Text.xml
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\bin\Release\System.Net.Http.Formatting.xml
+C:\lunar-server-4.5\Build-Release\Coeus.Lunar.Configuration.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\obj\Release\Coeus.Lunar.Configuration.csprojResolveAssemblyReference.cache
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Configuration\obj\Release\Coeus.Lunar.Configuration.dll
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Configuration\obj\Release\Coeus.Lunar.Configuration.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Configuration\obj\Release\Coeus.Lunar.Configuration.dll
+C:\Lunar-Source\Build-Release\Coeus.Lunar.Configuration.dll

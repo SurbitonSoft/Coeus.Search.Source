@@ -1,0 +1,8 @@
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus.Search.Sdk.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus.Search.Sdk.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Search.Sdk.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Search.Sdk.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Interface\obj\Debug\Coeus.Search.Sdk.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.Sdk\obj\Debug\Coeus.Search.Sdk.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.Sdk\obj\Debug\Coeus.Search.Sdk.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.Sdk\obj\Debug\Coeus.Search.Sdk.pdb

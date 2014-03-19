@@ -1,0 +1,11 @@
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus.Search.QueryParser.dll.config
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus.Search.QueryParser.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Coeus.Search.QueryParser.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Debug\Coeus.Search.QueryParser.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Debug\Coeus.Search.QueryParser.pdb
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Debug\Coeus.Search.QueryParser.ParserResource.resources
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Debug\Coeus.Search.QueryParser.csproj.GenerateResource.Cache
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.QueryParser\obj\Debug\Coeus.Search.QueryParser.ParserResource.resources
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.QueryParser\obj\Debug\Coeus.Search.QueryParser.csproj.GenerateResource.Cache
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.QueryParser\obj\Debug\Coeus.Search.QueryParser.dll
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Search.QueryParser\obj\Debug\Coeus.Search.QueryParser.pdb

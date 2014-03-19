@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Coeus.Search.Core</RootNamespace>
+    <AssemblyName>Coeus Search Server</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Build\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\Build-Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>..\..\Build-Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>none</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Gurock.SmartInspect">
+      <HintPath>..\..\..\Third Party Dlls\Gurock.SmartInspect.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Core">
+      <HintPath>..\..\Third Party Dlls\IKVM.OpenJDK.Core.dll</HintPath>
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.API">
+      <HintPath>..\..\Third Party Dlls\IKVM.OpenJDK.XML.API.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.Transform">
+      <HintPath>..\..\Third Party Dlls\IKVM.OpenJDK.XML.Transform.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="IKVM.Runtime">
+      <HintPath>..\..\Third Party Dlls\IKVM.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="LuceneLib">
+      <HintPath>..\..\Third Party Dlls\LuceneLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Third Party Dlls\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Third Party Dlls\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Threading.Tasks.Dataflow, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Third Party Dlls\System.Threading.Tasks.Dataflow.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Third Party Dlls\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.SelfHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Third Party Dlls\System.Web.Http.SelfHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.XmlSerializer" />
+    <Reference Include="Topshelf">
+      <HintPath>..\..\Third Party Dlls\Topshelf.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analyzer\AnalyzerFactory.cs" />
+    <Compile Include="Analyzer\CustomAnalyzers\CaseInsensitiveKeywordAnalyzer.cs" />
+    <Compile Include="Analyzer\CustomAnalyzer.cs" />
+    <Compile Include="Analyzer\FiltersFactory.cs" />
+    <Compile Include="Analyzer\CustomAnalyzers\HtmlAnalyzer.cs" />
+    <Compile Include="Analyzer\FilterFactory\ASCIIFoldingFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\BeiderMorseFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\CapitalizationFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\Caverphone2FilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\DoubleMetaphoneFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\KeepWordsFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\LengthFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\LowerCaseFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\MetaphoneFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\RefinedSoundexFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\RemoveDuplicatesTokenFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\ReverseStringFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\SoundexFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\StandardFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\TrimFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\WordDelimiterFilterFactory.cs" />
+    <Compile Include="Analyzer\TokenizerFactory\LowerCaseTokenizerFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\PatternReplaceFilterFactory.cs" />
+    <Compile Include="Analyzer\PerFieldAnalyzerFactory.cs" />
+    <Compile Include="Analyzer\CustomAnalyzers\PhoneticAnalyzer.cs" />
+    <Compile Include="Analyzer\FilterFactory\StopFilterFactory.cs" />
+    <Compile Include="Analyzer\FilterFactory\SynonymFilterFactory.cs" />
+    <Compile Include="Analyzer\TokenizerFactory\KeywordTokenizerFactory.cs" />
+    <Compile Include="Analyzer\TokenizerFactory\LetterTokenizerFactory.cs" />
+    <Compile Include="Analyzer\TokenizersFactory.cs" />
+    <Compile Include="Analyzer\TokenizerFactory\StandardTokenizerFactory.cs" />
+    <Compile Include="Analyzer\TokenizerFactory\WhitespaceTokenizerFactory.cs" />
+    <Compile Include="Analyzer\TokenizerFactory\UAX29URLEmailTokenizerFactory.cs" />
+    <Compile Include="ConfigurationStore.cs" />
+    <Compile Include="Configuration\IndexConfigurationLoader.cs" />
+    <Compile Include="Configuration\IndexSetting.cs" />
+    <Compile Include="Handlers\HttpsRequiredHandler.cs" />
+    <Compile Include="Handlers\IpAddressHandler.cs" />
+    <Compile Include="Index\IndexCommitter.cs" />
+    <Compile Include="Index\NRTManagerSyn.cs" />
+    <Compile Include="Index\ShardWriter.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="SearchLogger.cs" />
+    <Compile Include="SearchService.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SearchServiceInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MefBootstrapper.cs" />
+    <Compile Include="Operations\AnalysisOperation.cs" />
+    <Compile Include="Operations\BackgroundSearchProfileOperation.cs" />
+    <Compile Include="Operations\BulkIndexOperation.cs" />
+    <Compile Include="Operations\ConnectorMetaOperation.cs" />
+    <Compile Include="Operations\DeleteOperation.cs" />
+    <Compile Include="Operations\IndexMetaOperation.cs" />
+    <Compile Include="Operations\IndexOperation.cs" />
+    <Compile Include="Operations\JobStatusOperation.cs" />
+    <Compile Include="Operations\Response\HttpResponseStore.cs" />
+    <Compile Include="Operations\SearchProfileMetaOperation.cs" />
+    <Compile Include="Operations\SearchProfileOperation.cs" />
+    <Compile Include="Operations\SearchOperation.cs" />
+    <Compile Include="Handlers\FileTextExtractor.cs" />
+    <Compile Include="Operations\SearchProfileTestOperation.cs" />
+    <Compile Include="Utils\AdministratorPrivledgesCheck.cs" />
+    <Compile Include="Utils\AssemblyResolver.cs" />
+    <Compile Include="Utils\FileSystemPermissions.cs" />
+    <Compile Include="Utils\HashHelper.cs" />
+    <Compile Include="Utils\TaskHelpers.cs" />
+    <Compile Include="WCF\ISearch.cs" />
+    <Compile Include="WCF\SearchResult.cs" />
+    <Compile Include="WCF\WcfSearch.cs" />
+    <Compile Include="WebServices\HomeController.cs" />
+    <Compile Include="Index\IndexEngine.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ServerBase.cs" />
+    <Compile Include="Handlers\SimpleCORSHandler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="NLog.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Coeus.Search.Configuration\Coeus.Search.Configuration.csproj">
+      <Project>{7e8fb597-34b7-4391-b1db-1caa91aed7b5}</Project>
+      <Name>Coeus.Search.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Coeus.Search.Sdk\Coeus.Search.Sdk.csproj">
+      <Project>{03c426e5-e3cd-4eb9-a884-175f14aee612}</Project>
+      <Name>Coeus.Search.Sdk</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Analyzer\FilterFactory\Filter\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

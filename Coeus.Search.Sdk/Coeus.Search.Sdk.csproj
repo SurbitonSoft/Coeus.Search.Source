@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{03C426E5-E3CD-4EB9-A884-175F14AEE612}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Coeus.Search.Sdk</RootNamespace>
+    <AssemblyName>Coeus.Search.Sdk</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Build-Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>3</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Build-Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IKVM.OpenJDK.Core">
+      <HintPath>..\..\Third Party Dlls\IKVM.OpenJDK.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="LuceneLib">
+      <HintPath>..\..\Third Party Dlls\LuceneLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Third Party Dlls\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Third Party Dlls\System.Net.Http.Formatting.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Threading.Tasks.Dataflow, Version=4.5.14.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.Tpl.Dataflow.4.5.14\lib\portable-net45+win8\System.Threading.Tasks.Dataflow.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\ConnectorBase.cs" />
+    <Compile Include="Base\OperationBase.cs" />
+    <Compile Include="FieldType.cs" />
+    <Compile Include="Helpers\JsonpMediaTypeFormatter.cs" />
+    <Compile Include="Helpers\XsdHelpers.cs" />
+    <Compile Include="Interface\IComputedConfiguration.cs" />
+    <Compile Include="Interface\IConfigurationStore.cs" />
+    <Compile Include="Interface\IConnector.cs" />
+    <Compile Include="Interface\IConnectorMetaData.cs" />
+    <Compile Include="Interface\IIndexEngine.cs" />
+    <Compile Include="Interface\ILogger.cs" />
+    <Compile Include="Base\TokenFilterFactoryBase.cs" />
+    <Compile Include="Interface\IOperationMetaData.cs" />
+    <Compile Include="Interface\ITokenFilterFactoryMetaData.cs" />
+    <Compile Include="Messages\LoggerMessage.cs" />
+    <Compile Include="Messages\SearchRequest.cs" />
+    <Compile Include="SearchProfile.cs" />
+    <Compile Include="Search\SearchEngine.cs" />
+    <Compile Include="Settings\SearchProfiles.cs" />
+    <Compile Include="Settings\SearchProfileSetting.cs" />
+    <Compile Include="Interface\IOperation.cs" />
+    <Compile Include="Messages\IndexDocumentRequest.cs" />
+    <Compile Include="Messages\IndexRequest.cs" />
+    <Compile Include="Messages\RequestType.cs" />
+    <Compile Include="Messages\StatusMessage.cs" />
+    <Compile Include="MetadataRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings\IndexField.cs" />
+    <Compile Include="Settings\IndexFieldDataType.cs" />
+    <Compile Include="Settings\IIndexSetting.cs" />
+    <Compile Include="Settings\SearchProfileMissingDataStrategy.cs" />
+    <Compile Include="Settings\TokenizerType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Coeus.Search.QueryParser\Coeus.Search.QueryParser.csproj">
+      <Project>{24b6cdc1-3006-42e2-8607-ece915b0d692}</Project>
+      <Name>Coeus.Search.QueryParser</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

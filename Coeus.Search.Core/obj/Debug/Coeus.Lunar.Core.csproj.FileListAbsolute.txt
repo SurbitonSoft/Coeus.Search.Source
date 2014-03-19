@@ -1,0 +1,34 @@
+C:\lunar-server-4.5\Project Lunar 4.5\Build\Lunar Search Server.exe.config
+C:\lunar-server-4.5\Build-Debug\Lunar Search Server.exe.config
+C:\lunar-server-4.5\Build-Debug\Lunar Search Server.exe
+C:\lunar-server-4.5\Build-Debug\Lunar Search Server.pdb
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus.Lunar.Core.csprojResolveAssemblyReference.cache
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.exe
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.pdb
+C:\Lunar-Source\Build-Debug\Lunar Search Server.exe.config
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.exe
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.pdb
+C:\Lunar-Source\Build-Debug\Lunar Search Server.exe
+C:\Lunar-Source\Build-Debug\Lunar Search Server.pdb
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus.Lunar.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source-CB\Build-Debug\Lunar Search Server.exe.config
+C:\Lunar-Source-CB\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.exe
+C:\Lunar-Source-CB\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.pdb
+C:\Lunar-Source-CB\Build-Debug\Lunar Search Server.exe
+C:\Lunar-Source-CB\Build-Debug\Lunar Search Server.pdb
+C:\Lunar-Source-CB\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus.Lunar.Core.csprojResolveAssemblyReference.cache
+C:\5 Lunar-Source-CB-merge2\Build-Debug\Lunar Search Server.exe.config
+C:\5 Lunar-Source-CB-merge2\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.exe
+C:\5 Lunar-Source-CB-merge2\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.pdb
+C:\5 Lunar-Source-CB-merge2\Build-Debug\Lunar Search Server.exe
+C:\5 Lunar-Source-CB-merge2\Build-Debug\Lunar Search Server.pdb
+C:\5 Lunar-Source-CB-merge2\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus.Lunar.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Build-Debug\Lunar Search Server.exe.config
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.exe
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.pdb
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Build-Debug\Lunar Search Server.exe
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Build-Debug\Lunar Search Server.pdb
+C:\Lunar-Source\5 Lunar-Source-CB-merge2 (working)\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Coeus.Lunar.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Build-Debug\Lunar Search Server.exe.config
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.exe
+C:\Lunar-Source\6 Lunar-Source-CB-namespace\Project Lunar 4.5\Coeus.Lunar.Core\Coeus.Lunar.Core\obj\Debug\Lunar Search Server.pdb

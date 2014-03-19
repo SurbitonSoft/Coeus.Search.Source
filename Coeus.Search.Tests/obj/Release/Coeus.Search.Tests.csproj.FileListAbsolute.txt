@@ -1,0 +1,10 @@
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\bin\Release\Coeus.Search.Tests.dll
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\bin\Release\Coeus.Search.Tests.pdb
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\bin\Release\CalithaLib.dll
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\bin\Release\Coeus.Search.QueryParser.dll
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\bin\Release\GoldParserEngine.dll
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\bin\Release\nunit.framework.dll
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\bin\Release\nunit.framework.xml
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\obj\Release\Coeus.Search.Tests.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\obj\Release\Coeus.Search.Tests.dll
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Tests\obj\Release\Coeus.Search.Tests.pdb

@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/f:FiltersFactory.cs" caret="3120" fromTop="22" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/f:AnalyzerFactory.cs" caret="3693" fromTop="18" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Index/f:IndexCommitter.cs" caret="0" fromTop="0" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Configuration/f:IndexSetting.cs" caret="4985" fromTop="22" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:StopFilterFactory.cs" caret="2932" fromTop="18" />
+    <File id="7E8FB597-34B7-4391-B1DB-1CAA91AED7B5/d:Setting/f:IndexSettingFile.cs" caret="0" fromTop="0" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Configuration/f:IndexConfigurationLoader.cs" caret="1923" fromTop="24" />
+    <File id="ACC50BEE-C21F-4A73-B993-D9ACA1532869/d:Unit/f:ParserTests.cs" caret="4877" fromTop="33" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Operations/f:DeleteOperation.cs" caret="0" fromTop="0" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Operations/f:SearchProfileOperation.cs" caret="1169" fromTop="31" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Operations/f:SearchProfileTestOperation.cs" caret="154" fromTop="1" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Index/f:IndexEngine.cs" caret="8756" fromTop="12" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Operations/f:AnalysisOperation.cs" caret="3359" fromTop="15" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Index/f:ShardWriter.cs" caret="8727" fromTop="30" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:ASCIIFoldingFilterFactory.cs" caret="1005" fromTop="24" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:packages.config" caret="0" fromTop="0" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:TokenizerFactory/f:KeywordTokenizerFactory.cs" caret="0" fromTop="0" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:CustomAnalyzers/f:HtmlAnalyzer.cs" caret="773" fromTop="11" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:CustomAnalyzers/f:CaseInsensitiveKeywordAnalyzer.cs" caret="567" fromTop="13" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/f:CustomAnalyzer.cs" caret="2638" fromTop="31" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:CustomAnalyzers/f:PhoneticAnalyzer.cs" caret="1827" fromTop="36" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:WebServices/f:HomeController.cs" caret="2277" fromTop="32" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:WCF/f:WcfSearch.cs" caret="802" fromTop="23" />
+    <File id="03C426E5-E3CD-4EB9-A884-175F14AEE612/d:Search/f:SearchEngine.cs" caret="5703" fromTop="27" />
+    <File id="03C426E5-E3CD-4EB9-A884-175F14AEE612/d:Settings/f:SearchProfileSetting.cs" caret="2522" fromTop="19" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:ServerBase.cs" caret="0" fromTop="0" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:Program.cs" caret="1372" fromTop="15" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:Logger.cs" caret="1219" fromTop="34" />
+    <File id="1FB36E00-0081-4CE1-934A-CE8D3B54A8F2/f:CrmConnector.cs" caret="15261" fromTop="9" />
+    <File id="1FB36E00-0081-4CE1-934A-CE8D3B54A8F2/f:CrmOperations.cs" caret="3361" fromTop="13" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:ASCIIFoldingFilterFactory.cs" caret="746" fromTop="13" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:BeiderMorseFilterFactory.cs" caret="980" fromTop="21" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:CapitalizationFilterFactory.cs" caret="615" fromTop="10" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:DoubleMetaphoneFilterFactory.cs" caret="892" fromTop="19" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:MetaphoneFilterFactory.cs" caret="1123" fromTop="18" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:RefinedSoundexFilterFactory.cs" caret="1131" fromTop="26" />
+    <File id="2C63844F-1AB6-4CA2-AC5E-1213711B3166/f:CsvConnector.cs" caret="11769" fromTop="283" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/f:AnalyzerFactory.cs" caret="3289" fromTop="11" />
+    <File id="03C426E5-E3CD-4EB9-A884-175F14AEE612/d:Messages/f:IndexRequest.cs" caret="508" fromTop="12" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Handlers/f:FileTextExtractor.cs" caret="1015" fromTop="17" />
+    <File id="2C63844F-1AB6-4CA2-AC5E-1213711B3166/d:Properties/f:AssemblyInfo.cs" caret="1968" fromTop="1" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:WCF/f:WcfSearch.cs" caret="5565" fromTop="12" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:WCF/f:ISearch.cs" caret="486" fromTop="5" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Configuration/f:IndexSetting.cs" caret="14212" fromTop="21" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:Logger.cs" caret="3785" fromTop="34" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Index/f:IndexEngine.cs" caret="1243" fromTop="32" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Properties/f:AssemblyInfo.cs" caret="1899" fromTop="12" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:LunarServiceInstaller.cs" caret="677" fromTop="17" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:app.config" caret="1255" fromTop="34" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:LunarService.cs" caret="1204" fromTop="11" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Index/f:ShardWriter.cs" caret="9621" fromTop="31" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:ServerBase.cs" caret="4240" fromTop="16" />
+    <File id="24B6CDC1-3006-42E2-8607-ECE915B0D692/d:SearchProfile/f:SearchProfileHelpers.cs" caret="5681" fromTop="25" />
+    <File id="7E8FB597-34B7-4391-B1DB-1CAA91AED7B5/d:Setting/f:SearchProfileSettingFile.cs" caret="2581" fromTop="42" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Operations/f:SearchProfileOperation.cs" caret="154" fromTop="1" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Operations/f:SearchProfileTestOperation.cs" caret="154" fromTop="1" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Operations/f:AnalysisOperation.cs" caret="3481" fromTop="25" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/d:Analyzer/d:FilterFactory/f:PatternReplaceFilterFactory.cs" caret="1985" fromTop="22" />
+    <File id="03C426E5-E3CD-4EB9-A884-175F14AEE612/d:Search/f:SearchEngine.cs" caret="5703" fromTop="30" />
+    <File id="18CB3D1B-E0D4-4F56-9D92-2BF6F364BDE9/f:Program.cs" caret="1309" fromTop="26" />
+  </RecentEdits>
+</RecentFiles>

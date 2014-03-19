@@ -1,0 +1,8 @@
+C:\lunar-server-4.5\Build-Release\Coeus.Lunar.QueryParser.dll.config
+C:\lunar-server-4.5\Build-Release\Coeus.Lunar.QueryParser.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Release\Coeus.Lunar.QueryParser.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Release\Coeus.Lunar.QueryParser.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Release\Coeus.Lunar.QueryParser.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\Project Lunar 4.5\Coeus.Lunar.QueryParser\obj\Release\Coeus.Lunar.QueryParser.dll
+C:\Lunar-Source\Build-Release\Coeus.Lunar.QueryParser.dll.config
+C:\Lunar-Source\Build-Release\Coeus.Lunar.QueryParser.dll

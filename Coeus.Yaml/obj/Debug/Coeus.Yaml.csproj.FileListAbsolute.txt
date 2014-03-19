@@ -1,0 +1,6 @@
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Yaml\bin\Debug\Coeus.Yaml.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Yaml\bin\Debug\Coeus.Yaml.pdb
+C:\lunar-server-4.5\Build-Debug\Coeus.Yaml.dll
+C:\lunar-server-4.5\Build-Debug\Coeus.Yaml.pdb
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Yaml\obj\Debug\Coeus.Yaml.dll
+C:\lunar-server-4.5\Project Lunar 4.5\Coeus.Yaml\obj\Debug\Coeus.Yaml.pdb

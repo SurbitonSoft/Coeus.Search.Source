@@ -1,0 +1,6 @@
+C:\Lunar-Source\Build-Release\Coeus Search Server.exe.config
+C:\Lunar-Source\Build-Release\Coeus Search Server.exe
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Core\obj\Release\Coeus.Search.Core.csprojResolveAssemblyReference.cache
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Coeus.Search.Source\Coeus.Search.Core\obj\Release\Coeus Search Server.exe
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Build-Release\Coeus Search Server.exe.config
+C:\Lunar-Source\7 Coeus-Search-Source-contoso\Build-Release\Coeus Search Server.exe
