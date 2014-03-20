@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------------------------------------------------
-// <copyright file="SearchServiceInstaller.cs" company="Coeus Consulting Ltd.">
+// <copyright file="SearchServiceInstaller.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------

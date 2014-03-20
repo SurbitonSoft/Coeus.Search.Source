@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="HtmlAnalyzer.cs" company="Coeus Consulting Ltd.">
+// <copyright file="HtmlAnalyzer.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

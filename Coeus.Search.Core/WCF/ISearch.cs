@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="ISearch.cs" company="Coeus Consulting Ltd.">
+// <copyright file="ISearch.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

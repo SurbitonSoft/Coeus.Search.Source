@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="CsvConnector.cs" company="Coeus Consulting Ltd.">
-//   Coeus Consulting Ltd. 2012
+// <copyright file="CsvConnector.cs" company="Coeus Application Services">
+//   Coeus Application Services 2012
 // </copyright>
 // <summary>
 //   The CSV connector.

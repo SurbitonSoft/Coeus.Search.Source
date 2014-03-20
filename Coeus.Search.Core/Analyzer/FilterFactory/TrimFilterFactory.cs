@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="TrimFilterFactory.cs" company="Coeus Consulting Ltd.">
+// <copyright file="TrimFilterFactory.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

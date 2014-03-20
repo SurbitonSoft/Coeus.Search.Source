@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IndexConfigurationLoader.cs" company="Coeus Consulting Ltd.">
+// <copyright file="IndexConfigurationLoader.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

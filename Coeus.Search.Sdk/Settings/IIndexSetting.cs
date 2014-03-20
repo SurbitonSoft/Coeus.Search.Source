@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IIndexSetting.cs" company="Coeus Consulting Ltd.">
+// <copyright file="IIndexSetting.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------

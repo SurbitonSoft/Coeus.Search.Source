@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IOperationMetaData.cs" company="Coeus Consulting Ltd.">
+// <copyright file="IOperationMetaData.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------

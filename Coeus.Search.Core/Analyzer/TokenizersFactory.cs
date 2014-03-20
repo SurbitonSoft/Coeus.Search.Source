@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="TokenizersFactory.cs" company="Coeus Consulting Ltd.">
+// <copyright file="TokenizersFactory.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

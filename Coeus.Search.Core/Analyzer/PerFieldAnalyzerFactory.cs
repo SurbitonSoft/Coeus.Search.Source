@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="PerFieldAnalyzerFactory.cs" company="Coeus Consulting Ltd.">
+// <copyright file="PerFieldAnalyzerFactory.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

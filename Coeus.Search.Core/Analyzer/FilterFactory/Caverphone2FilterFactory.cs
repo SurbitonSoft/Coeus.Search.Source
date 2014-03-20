@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Caverphone2FilterFactory.cs" company="Coeus Consulting Ltd.">
+// <copyright file="Caverphone2FilterFactory.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

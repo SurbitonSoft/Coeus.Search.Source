@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="WcfSearch.cs" company="Coeus Consulting Ltd.">
+// <copyright file="WcfSearch.cs" company="Coeus Application Services">
 //   Coeus Search 2012
 // </copyright>
 // <summary>

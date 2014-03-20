@@ -1,6 +1,6 @@
 // --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IndexSettingFile.cs" company="Coeus Consulting Ltd.">
-//   Coeus Consulting Ltd. 2012
+// <copyright file="IndexSettingFile.cs" company="Coeus Application Services">
+//   Coeus Application Services 2012
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 namespace Coeus.Search.Configuration.Setting
